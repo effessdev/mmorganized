@@ -2,7 +2,7 @@
 
 An AI-powered memory capture and recall app, with complete control over your data and zero vendor lock-in. [Click here to visit](https://mmorganized.vercel.app).
 
-<img width="1286" height="840" alt="image" src="https://github.com/user-attachments/assets/e0b11456-3d8d-43dd-9417-7e00af839f8f" />
+<img width="1298" height="852" alt="framed-image" src="https://github.com/user-attachments/assets/679239f1-40f9-4b5e-b1df-966897e9a895" />
 
 ## Software Stack
 
